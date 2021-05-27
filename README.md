@@ -1,2 +1,2 @@
 # AirPool
-Pool for $AIR
+Pool for AIR
